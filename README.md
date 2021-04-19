@@ -9,16 +9,12 @@
 
 The writing below specifies the task that I had to complete:
 
-Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
-prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
-Unfortunately, our goods are constantly degrading in quality as they approach their sell by date. We
-have a system in place that updates our inventory for us. It was developed by a no-nonsense type named
-Leeroy, who has moved on to new adventures. Your task is to add the new feature to our system so that
-we can begin selling a new category of items. First an introduction to our system:
+Ian's Game of Life is my solution to the well known Conway's Game of Life, a cellular automation program devised by John Horton Conway. For an in depth description of the problem, have a look at the Game of Life [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page. Listed below are the 4 rules required for the game to work:
 
-	- All items have a SellIn value which denotes the number of days we have to sell the item
-	- All items have a Quality value which denotes how valuable the item is
-	- At the end of each day our system lowers both values for every item
+	- Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+	- Any live cell with two or three live neighbours lives on to the next generation.
+	- Any live cell with more than three live neighbours dies, as if by overpopulation.
+	- Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 Pretty simple, right? Well this is where it gets interesting:
 
