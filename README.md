@@ -46,3 +46,6 @@ ruby gosu_gol.rb
 
 Gosu also allows users to alter the grid dimensions that the game takes place in. This is done in by changing the default height and width values in the initialize method found in 'gosu_gol.rb'
 
+## Visualisation with Gosu 
+
+![GOL](https://imgur.com/a/GXvBAoJ)
