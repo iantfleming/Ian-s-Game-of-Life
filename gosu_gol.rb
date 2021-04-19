@@ -59,5 +59,3 @@ class GameOfLifeWindow < Gosu::Window
 end
 
 GameOfLifeWindow.new.show
-
-# type ruby gosu_gol.rb       to get it to work in terminal
