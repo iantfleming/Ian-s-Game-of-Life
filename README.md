@@ -9,7 +9,7 @@
 
 The writing below specifies the task that I had to complete:
 
-Ian's Game of Life is my solution to the well known Conway's Game of Life, a cellular automation program devised by John Horton Conway. For an in depth description of the problem, have a look at the Game of Life [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page. Listed below are the 4 rules required for the game to work:
+Ian's Game of Life is my solution to the well known Conway's Game of Life, a cellular automation program devised by John Horton Conway. For an in depth description of the problem, have a look at the Game of Life [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page. Listed below are the four rules required for the game to work:
 
 	- Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 	- Any live cell with two or three live neighbours lives on to the next generation.
