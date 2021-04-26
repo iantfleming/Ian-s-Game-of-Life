@@ -49,3 +49,7 @@ Gosu also allows users to alter the grid dimensions that the game takes place in
 ## Visualisation with Gosu 
 
 (![image](https://user-images.githubusercontent.com/51751467/115248677-cec4e380-a11f-11eb-83b4-7b7eed4eab13.png)
+
+
+
+https://docs.google.com/document/d/1WuG5tY08mmM5RHkfWh6kInnfGTQHm3DsMl5bP_f0RAM/edit
